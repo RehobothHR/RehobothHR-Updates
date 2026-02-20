@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/RehobothHR/RehobothHR-Updates/raw/main/update.zip",
-  "notes": "Initial release of the RehobothHR auto-update system."
+    "version": "1.0.2",
+    "download_url": "https://github.com/RehobothHR/RehobothHR-Updates/raw/main/update.zip",
+    "notes": "Update to version 1.0.2"
 }
